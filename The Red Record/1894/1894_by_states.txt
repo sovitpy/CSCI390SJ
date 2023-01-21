@@ -1,0 +1,1 @@
+Mississippi, 15; Arkansas, 8; Virginia, 5; Tennessee, 15; Alabama, 12; Kentucky, 12; Texas, 9; Georgia, 19; South Carolina, 5; Florida, 7; Louisiana, 15; Missouri, 4; Ohio, 2; Maryland, 1; West Virginia, 2; Indiana, 1; Kansas, 1; Pennsylvania, 1
