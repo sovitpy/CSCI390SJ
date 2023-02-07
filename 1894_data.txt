@@ -1,0 +1,1072 @@
+CHARGE_ID: 12
+First Name: Samuel
+Last Name: Smith
+Gender: .
+Charge: MURDER
+Date: 1/9/1894
+State: Alabama
+
+CHARGE_ID: 12
+First Name: Roscoe
+Last Name: Parker
+Gender: .
+Charge: MURDER
+Date: 1/12/1894
+State: Ohio
+
+CHARGE_ID: 12
+First Name: Henry
+Last Name: Bruce
+Gender: .
+Charge: MURDER
+Date: 2/7/1894
+State: Arkansas
+
+CHARGE_ID: 12
+First Name: Sylvester
+Last Name: Rhodes
+Gender: .
+Charge: MURDER
+Date: 3/5/1894
+State: Georgia
+
+CHARGE_ID: 2
+First Name: Richard
+Last Name: Puryea
+Gender: .
+Charge: MURDER
+Date: 3/15/1894
+State: Philadelphia
+
+CHARGE_ID: 42
+First Name: Oliver
+Last Name: Jackson
+Gender: .
+Charge: MURDER
+Date: 3/29/1894
+State: Alabama
+
+CHARGE_ID: 33
+First Name: .
+Last Name: Saybrick
+Gender: .
+Charge: MURDER
+Date: 3/30/1894
+State: Mississippi
+
+CHARGE_ID: 36
+First Name: William
+Last Name: Lewis
+Gender: .
+Charge: MURDER
+Date: 4/14/1894
+State: Alabama
+
+CHARGE_ID: 36
+First Name: Jefferson
+Last Name: Luggle
+Gender: .
+Charge: MURDER
+Date: 4/23/1894
+State: Kansas
+
+CHARGE_ID: 36
+First Name: Samuel
+Last Name: Slaugate
+Gender: .
+Charge: MURDER
+Date: 4/23/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: Thomas
+Last Name: Claxton
+Gender: .
+Charge: MURDER
+Date: 4/23/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: David
+Last Name: Hawkins
+Gender: .
+Charge: MURDER
+Date: 4/23/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: Thel
+Last Name: Claxton
+Gender: .
+Charge: MURDER
+Date: 4/27/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: Comp
+Last Name: Claxton
+Gender: .
+Charge: MURDER
+Date: 4/27/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: Scot
+Last Name: Harvey
+Gender: .
+Charge: MURDER
+Date: 4/27/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: Jerry
+Last Name: McCly
+Gender: .
+Charge: MURDER
+Date: 4/27/1894
+State: Louisiana
+
+CHARGE_ID: 16
+First Name: Henry
+Last Name: Scott
+Gender: .
+Charge: MURDER
+Date: 5/17/1894
+State: Texas
+
+CHARGE_ID: 16
+First Name: Coat
+Last Name: Williams
+Gender: .
+Charge: MURDER
+Date: 5/15/1894
+State: Florida
+
+CHARGE_ID: 25
+First Name: Jefferson
+Last Name: Crawford
+Gender: .
+Charge: MURDER
+Date: 6/2/1894
+State: South Carolina
+
+CHARGE_ID: 27
+First Name: Thondo
+Last Name: Underwood
+Gender: .
+Charge: MURDER
+Date: 6/4/1894
+State: Louisiana
+
+CHARGE_ID: 28
+First Name: Isaac
+Last Name: Kemp
+Gender: .
+Charge: MURDER
+Date: 6/8/1894
+State: Virginia
+
+CHARGE_ID: 11
+First Name: Lon
+Last Name: Hall
+Gender: .
+Charge: MURDER
+Date: 6/13/1894
+State: Texas
+
+CHARGE_ID: 11
+First Name: Bascom
+Last Name: Cook
+Gender: .
+Charge: MURDER
+Date: 6/13/1894
+State: Texas
+
+CHARGE_ID: 11
+First Name: Luke
+Last Name: Thomas
+Gender: .
+Charge: MURDER
+Date: 6/15/1894
+State: Mississippi
+
+CHARGE_ID: 11
+First Name: John
+Last Name: Williams
+Gender: .
+Charge: MURDER
+Date: 6/29/1894
+State: Texas
+
+CHARGE_ID: 24
+First Name: Ulysses
+Last Name: Hayden
+Gender: .
+Charge: MURDER
+Date: 6/29/1894
+State: Missouri
+
+CHARGE_ID: 24
+First Name: .
+Last Name: Hood
+Gender: .
+Charge: MURDER
+Date: 7/6/1894
+State: Mississippi
+
+CHARGE_ID: 24
+First Name: James
+Last Name: Bell
+Gender: .
+Charge: MURDER
+Date: 7/7/1894
+State: Tennessee
+
+CHARGE_ID: 24
+First Name: Henderson
+Last Name: Hollander
+Gender: .
+Charge: MURDER
+Date: 9/2/1894
+State: Virginia
+
+CHARGE_ID: 24
+First Name: Robert
+Last Name: Williams
+Gender: .
+Charge: MURDER
+Date: 9/14/1894
+State: Louisiana
+
+CHARGE_ID: 31
+First Name: Luke
+Last Name: Washington
+Gender: .
+Charge: MURDER
+Date: 9/22/1894
+State: Arkansas
+
+CHARGE_ID: 31
+First Name: Richard
+Last Name: Washington
+Gender: .
+Charge: MURDER
+Date: 9/22/1894
+State: Arkansas
+
+CHARGE_ID: 4
+First Name: Henry
+Last Name: Crobyson
+Gender: .
+Charge: MURDER
+Date: 9/22/1894
+State: Arkansas
+
+CHARGE_ID: 4
+First Name: Lawrence
+Last Name: Younger
+Gender: .
+Charge: MURDER
+Date: 11/10/1894
+State: Virginia
+
+CHARGE_ID: 4
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: 12/17/1894
+State: South Carolina
+
+CHARGE_ID: 4
+First Name: Samuel
+Last Name: Taylor
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Georgia
+
+CHARGE_ID: 39
+First Name: Charles
+Last Name: Frazier
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Georgia
+
+CHARGE_ID: 39
+First Name: Samuel
+Last Name: Pike
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Georgia
+
+CHARGE_ID: 39
+First Name: Harry
+Last Name: Sherard
+Gender: .
+Charge: MURDER
+Date: 12/22/1894
+State: Georgia
+
+CHARGE_ID: 39
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Georgia
+
+CHARGE_ID: 39
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Georgia
+
+CHARGE_ID: 39
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Georgia
+
+CHARGE_ID: 35
+First Name: Daniel
+Last Name: McDonald
+Gender: .
+Charge: MURDER
+Date: 12/26/1894
+State: Mississippi
+
+CHARGE_ID: 35
+First Name: William
+Last Name: Carter
+Gender: .
+Charge: MURDER
+Date: 12/23/1894
+State: Mississippi
+
+CHARGE_ID: 35
+First Name: John
+Last Name: Buckner
+Gender: .
+Charge: RAPE
+Date: 1/17/1894
+State: Missouri
+
+CHARGE_ID: 35
+First Name: M.G.
+Last Name: Cambell
+Gender: .
+Charge: RAPE
+Date: 1/21/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: 1/27/1894
+State: Missouri
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: McCreeg
+Gender: .
+Charge: RAPE
+Date: 2/11/1894
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: Daniel
+Last Name: Ahren
+Gender: .
+Charge: RAPE
+Date: 4/6/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Seymour
+Last Name: Newland
+Gender: .
+Charge: RAPE
+Date: 4/15/1894
+State: Ohio
+
+CHARGE_ID: 1
+First Name: Robert
+Last Name: Evarts
+Gender: .
+Charge: RAPE
+Date: 4/26/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: James
+Last Name: Robinson
+Gender: .
+Charge: RAPE
+Date: 4/27/1894
+State: Virginia
+
+CHARGE_ID: 1
+First Name: Benjamin
+Last Name: White
+Gender: .
+Charge: RAPE
+Date: 4/27/1894
+State: Virginia
+
+CHARGE_ID: 1
+First Name: Nim
+Last Name: Young
+Gender: .
+Charge: RAPE
+Date: 5/15/1894
+State: Florida
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: 5/22/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: 6/13/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Owen
+Last Name: Opliltree
+Gender: .
+Charge: RAPE
+Date: 6/18/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Capus
+Gender: .
+Charge: RAPE
+Date: 6/22/1894
+State: Arkansas
+
+CHARGE_ID: 1
+First Name: Caleb
+Last Name: Godly
+Gender: .
+Charge: RAPE
+Date: 6/26/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: Fayette
+Last Name: Franklin
+Gender: .
+Charge: RAPE
+Date: 6/28/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Joseph
+Last Name: Johnson
+Gender: .
+Charge: RAPE
+Date: 7/2/1894
+State: Missouri
+
+CHARGE_ID: 1
+First Name: Lewis
+Last Name: Bankhead
+Gender: .
+Charge: RAPE
+Date: 7/6/1894
+State: Alabama
+
+CHARGE_ID: 1
+First Name: Marion
+Last Name: Howard
+Gender: .
+Charge: RAPE
+Date: 7/16/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: William
+Last Name: Griffith
+Gender: .
+Charge: RAPE
+Date: 7/20/1894
+State: Texas
+
+CHARGE_ID: 1
+First Name: William
+Last Name: Nershbread
+Gender: .
+Charge: RAPE
+Date: 8/12/1894
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: Marshall
+Last Name: Boston
+Gender: .
+Charge: RAPE
+Date: 8/14/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: David
+Last Name: Gooseby
+Gender: .
+Charge: RAPE
+Date: 9/19/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Willis
+Last Name: Griffey
+Gender: .
+Charge: RAPE
+Date: 10/15/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: Lee
+Last Name: Lawrence
+Gender: .
+Charge: RAPE
+Date: 11/8/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Needham
+Last Name: Smith
+Gender: .
+Charge: RAPE
+Date: 11/10/1894
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: Robert
+Last Name: Mosely
+Gender: .
+Charge: RAPE
+Date: 11/14/1894
+State: Alabama
+
+CHARGE_ID: 1
+First Name: William
+Last Name: Jackson
+Gender: .
+Charge: RAPE
+Date: 12/4/1894
+State: Florida
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: 12/18/1894
+State: Florida
+
+CHARGE_ID: 1
+First Name: Lamsen
+Last Name: Gregory
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 3/6/1894
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: Lamsen
+Last Name: Gregory
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 3/6/1894
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 3/6/1894
+State: Arkansas
+
+CHARGE_ID: 1
+First Name: Alfred
+Last Name: Brenn
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 4/14/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Harry
+Last Name: Gill
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 6/8/1894
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 11/23/1894
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: Teddy
+Last Name: Arthur
+Gender: .
+Charge: UNKNOWN OFFENSES
+Date: 12/5/1894
+State: West Virginia
+
+CHARGE_ID: 1
+First Name: Charles
+Last Name: Willis
+Gender: .
+Charge: DESPERADO
+Date: 1/14/1894
+State: Florida
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: SUSPECTED INCENDIARISM
+Date: 1/18/1894
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: J.H.
+Last Name: Dave
+Gender: .
+Charge: SUSPECTED ARSON
+Date: 6/14/1894
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: .
+Last Name: Collins
+Gender: .
+Charge: ENTICING SERVANT AWAY
+Date: 2/10/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Jesse
+Last Name: Dillingham
+Gender: .
+Charge: TRAIN WRECKING
+Date: 2/10/1894
+State: Texas
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: HIGHWAY ROBBERY
+Date: 6/3/1894
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Gabe
+Last Name: Nalls
+Gender: .
+Charge: INCENDIARISM
+Date: 11/8/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: Ulysses
+Last Name: Nails
+Gender: .
+Charge: INCENDIARISM
+Date: 11/8/1894
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: James
+Last Name: Allen
+Gender: .
+Charge: ARSON
+Date: 12/20/1894
+State: Texas
+
+CHARGE_ID: 1
+First Name: George
+Last Name: King
+Gender: .
+Charge: ASSAULT
+Date: 12/23/1894
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: Scott
+Last Name: Sherman
+Gender: .
+Charge: NO OFFENSE
+Date: 12/28/1894
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Smith
+Gender: .
+Charge: BURGLARY
+Date: 5/29/1894
+State: Mississippi
+
+CHARGE_ID: 1
+First Name: William
+Last Name: James
+Gender: .
+Charge: BURGLARY
+Date: 5/29/1894
+State: Mississippi
+
+CHARGE_ID: 1
+First Name: Ready
+Last Name: Murdock
+Gender: .
+Charge: ALLEGED RAPE
+Date: 6/4/1894
+State: Mississippi
+
+CHARGE_ID: 3
+First Name: .
+Last Name: .
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 7/14/1894
+State: Mississippi
+
+CHARGE_ID: 47
+First Name: Vance
+Last Name: McClure
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 7/26/1894
+State: Louisiana
+
+CHARGE_ID: 47
+First Name: William
+Last Name: Tyler
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 7/26/1894
+State: Kentucky
+
+CHARGE_ID: 5
+First Name: James
+Last Name: Smith
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 9/14/1894
+State: Florida
+
+CHARGE_ID: 5
+First Name: Henry
+Last Name: Gibson
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 10/8/1894
+State: Texas
+
+CHARGE_ID: 5
+First Name: .
+Last Name: Williams
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 10/20/1894
+State: Maryland
+
+CHARGE_ID: 5
+First Name: Lewis
+Last Name: Williams
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 6/9/1894
+State: Mississippi
+
+CHARGE_ID: 5
+First Name: George
+Last Name: Linton
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 6/28/1894
+State: Mississippi
+
+CHARGE_ID: 46
+First Name: Edward
+Last Name: White
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 6/28/1894
+State: Alabama
+
+CHARGE_ID: 46
+First Name: George
+Last Name: Pond
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 7/6/1894
+State: Mississippi
+
+CHARGE_ID: 6
+First Name: Augustus
+Last Name: Pond
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: 7/7/1894
+State: Mississippi
+
+CHARGE_ID: 34
+First Name: Mark
+Last Name: Jacobs
+Gender: .
+Charge: RACE PREJUDICE
+Date: 6/10/1894
+State: Louisiana
+
+CHARGE_ID: 34
+First Name: .
+Last Name: .
+Gender: .
+Charge: RACE PREJUDICE
+Date: 7/24/1894
+State: Mississippi
+
+CHARGE_ID: 34
+First Name: James
+Last Name: Perry
+Gender: .
+Charge: INTRODUCING SMALLPOX
+Date: 6/10/1894
+State: Arkansas
+
+CHARGE_ID: 34
+First Name: Lentige
+Last Name: .
+Gender: .
+Charge: KIDNAPPING
+Date: 3/2/1894
+State: Kentucky
+
+CHARGE_ID: 34
+First Name: J.T.
+Last Name: Burgis
+Gender: .
+Charge: CONSPIRACY
+Date: 5/29/1894
+State: Florida
+
+CHARGE_ID: 41
+First Name: Archie
+Last Name: Haynes
+Gender: .
+Charge: HORSE STEALING
+Date: 6/20/1894
+State: Kentucky
+
+CHARGE_ID: 41
+First Name: Burt
+Last Name: Haynes
+Gender: .
+Charge: HORSE STEALING
+Date: 6/20/1894
+State: Kentucky
+
+CHARGE_ID: 41
+First Name: William
+Last Name: Haynes
+Gender: .
+Charge: HORSE STEALING
+Date: 6/20/1894
+State: Kentucky
+
+CHARGE_ID: 41
+First Name: .
+Last Name: .
+Gender: .
+Charge: WRITING LETTER TO WHITE WOMAN
+Date: 5/9/1894
+State: Texas
+
+CHARGE_ID: 21
+First Name: James
+Last Name: Nelson
+Gender: .
+Charge: GIVING INFORMATION
+Date: 7/12/1894
+State: South Carolina
+
+CHARGE_ID: 44
+First Name: Alfred
+Last Name: Davis
+Gender: .
+Charge: STEALING
+Date: 1/5/1894
+State: Arkansas
+
+CHARGE_ID: 8
+First Name: Henry
+Last Name: Montgomery
+Gender: .
+Charge: LARCENY
+Date: 4/18/1894
+State: Tennessee
+
+CHARGE_ID: 7
+First Name: John
+Last Name: Brownlee
+Gender: .
+Charge: POLITICAL CAUSES
+Date: 7/19/1894
+State: Alabama
+
+CHARGE_ID: 23
+First Name: Allen
+Last Name: Myers
+Gender: .
+Charge: CONJURING
+Date: 7/20/1894
+State: Mississippi
+
+CHARGE_ID: 23
+First Name: Frank
+Last Name: Ballard
+Gender: .
+Charge: ATTEMPTED MURDER
+Date: 6/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: ALLEGED MURDER
+Date: 4/5/1894
+State: Alabama
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: ALLEGED MURDER
+Date: 4/5/1894
+State: Alabama
+
+CHARGE_ID: 23
+First Name: Samuel
+Last Name: Wood
+Gender: .
+Charge: WITHOUT CAUSE
+Date: 5/17/1894
+State: Virginia
+
+CHARGE_ID: 23
+First Name: Thomas
+Last Name: Black
+Gender: .
+Charge: BARN BURNING
+Date: 4/22/1894
+State: Alabama
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Williams
+Gender: .
+Charge: BARN BURNING
+Date: 4/22/1894
+State: Alabama
+
+CHARGE_ID: 23
+First Name: Toney
+Last Name: Johnson
+Gender: .
+Charge: BARN BURNING
+Date: 4/22/1894
+State: Alabama
+
+CHARGE_ID: 23
+First Name: William
+Last Name: Bell
+Gender: .
+Charge: BARN BURNING
+Date: 7/14/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Daniel
+Last Name: Hawkins
+Gender: .
+Charge: BARN BURNING
+Date: 9/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Robert
+Last Name: Haynes
+Gender: .
+Charge: BARN BURNING
+Date: 9/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Warner
+Last Name: Williams
+Gender: .
+Charge: BARN BURNING
+Date: 9/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Edward
+Last Name: Hall
+Gender: .
+Charge: BARN BURNING
+Date: 9/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Haynes
+Gender: .
+Charge: BARN BURNING
+Date: 9/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Graham
+Last Name: White
+Gender: .
+Charge: BARN BURNING
+Date: 9/1/1894
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: William
+Last Name: Brooks
+Gender: .
+Charge: ASKING WHITE WOMAN TO MARRY HIM
+Date: 5/23/1894
+State: Arkansas
+

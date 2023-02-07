@@ -1,0 +1,135 @@
+Charge,Date,Name,Address,State,Month,First Name,Last Name
+MURDER,1/9/1894,Samuel Smith,"Greenville, Ala.",Alabama,January,Samuel,Smith
+MURDER,1/12/1894,Roscoe Parker,"West Union, Ohio",Ohio,January,Roscoe,Parker
+MURDER,2/7/1894,Henry Bruce,"Gulch Co., Ark.",Arkansas,February,Henry,Bruce
+MURDER,3/5/1894,Sylvester Rhodes,"Collins, Ga.",Georgia,March,Sylvester,Rhodes
+MURDER,3/15/1894,Richard Puryea,"Stroudsburg, Pa.",Philadelphia,March,Richard,Puryea
+MURDER,3/29/1894,Oliver Jackson,"Montgomery, Ala.",Alabama,March,Oliver,Jackson
+MURDER,3/30/1894,__ __ Saybrick,"Fisher's Ferry, Miss.",Mississippi,March,#N/A,Saybrick
+MURDER,4/14/1894,William Lewis,"Lanison, Ala.",Alabama,April,William,Lewis
+MURDER,4/23/1894,Jefferson Luggle,"Cherokee, Kan.",Kansas,April,Jefferson,Luggle
+MURDER,4/23/1894,Samuel Slaugate,"Tallulah, La.",Louisiana,April,Samuel,Slaugate
+MURDER,4/23/1894,Thomas Claxton,"Tallulah, La.",Louisiana,April,Thomas,Claxton
+MURDER,4/23/1894,David Hawkins,"Tallulah, La.",Louisiana,April,David,Hawkins
+MURDER,4/27/1894,Thel Claxton,"Tallulah, La.",Louisiana,April,Thel,Claxton
+MURDER,4/27/1894,Comp Claxton,"Tallulah, La.",Louisiana,April,Comp,Claxton
+MURDER,4/27/1894,Scot Harvey,"Tallulah, La.",Louisiana,April,Scot,Harvey
+MURDER,4/27/1894,Jerry McCly,"Tallulah, La.",Louisiana,April,Jerry,McCly
+MURDER,5/17/1894,Henry Scott,"Jefferson, Tex.",Texas,May,Henry,Scott
+MURDER,5/15/1894,Coat Williams,"Pine Grove, Fla.",Florida,May,Coat,Williams
+MURDER,6/2/1894,Jefferson Crawford,"Bethesda, S.C.",South Carolina,June,Jefferson,Crawford
+MURDER,6/4/1894,Thondo Underwood,"Monroe, La.",Louisiana,June,Thondo,Underwood
+MURDER,6/8/1894,Isaac Kemp,"Cape Charles, Va.",Virginia,June,Isaac,Kemp
+MURDER,6/13/1894,Lon Hall,"Sweethouse, Tex.",Texas,June,Lon,Hall
+MURDER,6/13/1894,Bascom Cook,"Sweethouse, Tex.",Texas,June,Bascom,Cook
+MURDER,6/15/1894,Luke Thomas,"Biloxi, Miss.",Mississippi,June,Luke,Thomas
+MURDER,6/29/1894,John Williams,"Sulphur, Tex.",Texas,June,John,Williams
+MURDER,6/29/1894,Ulysses Hayden,"Monett, Mo.",Missouri,June,Ulysses,Hayden
+MURDER,7/6/1894,__ __ Hood,"Amite, Miss.",Mississippi,July,#N/A,Hood
+MURDER,7/7/1894,James Bell,"Charlotte, Tenn.",Tennessee,July,James,Bell
+MURDER,9/2/1894,Henderson Hollander,"Elkhorn, W. Va.",Virginia,September,Henderson,Hollander
+MURDER,9/14/1894,Robert Williams,"Concordia Parish, La.",Louisiana,September,Robert,Williams
+MURDER,9/22/1894,Luke Washington,"Meghee, Ark.",Arkansas,September,Luke,Washington
+MURDER,9/22/1894,Richard Washington,"Meghee, Ark.",Arkansas,September,Richard,Washington
+MURDER,9/22/1894,Henry Crobyson,"Meghee, Ark.",Arkansas,September,Henry,Crobyson
+MURDER,11/10/1894,Lawrence Younger,"Lloyd, Va.",Virginia,November,Lawrence,Younger
+MURDER,12/17/1894,unknown Negro,"Williamston, S.C.",South Carolina,December,#N/A,#N/A
+MURDER,12/23/1894,Samuel Taylor,"Brooks County, Ga.",Georgia,December,Samuel,Taylor
+MURDER,12/23/1894,Charles Frazier,"Brooks County, Ga.",Georgia,December,Charles,Frazier
+MURDER,12/23/1894,Samuel Pike,"Brooks County, Ga.",Georgia,December,Samuel,Pike
+MURDER,12/22/1894,Harry Sherard,"Brooks County, Ga.",Georgia,December,Harry,Sherard
+MURDER,12/23/1894,unknown Negro,"Brooks County, Ga.",Georgia,December,#N/A,#N/A
+MURDER,12/23/1894,unknown Negro,"Brooks County, Ga.",Georgia,December,#N/A,#N/A
+MURDER,12/23/1894,unknown Negro,"Brooks County, Ga.",Georgia,December,#N/A,#N/A
+MURDER,12/26/1894,Daniel McDonald,"Winston County, Miss.",Mississippi,December,Daniel,McDonald
+MURDER,12/23/1894,William Carter,"Winston County, Miss.",Mississippi,December,William,Carter
+RAPE,1/17/1894,John Buckner,"Valley Park, Mo.",Missouri,January,John,Buckner
+RAPE,1/21/1894,M.G. Cambell,"Jellico Mines, Ky.",Kentucky,January,M.G.,Cambell
+RAPE,1/27/1894,unknown,"Verona, Mo.",Missouri,January,#N/A,#N/A
+RAPE,2/11/1894,Henry McCreeg,"near Pioneer, Tenn.",Tennessee,February,Henry,McCreeg
+RAPE,4/6/1894,Daniel Ahren,"Greensboro, Ga.",Georgia,April,Daniel,Ahren
+RAPE,4/15/1894,Seymour Newland,"Rushsylvania, Ohio",Ohio,April,Seymour,Newland
+RAPE,4/26/1894,Robert Evarts,"Jamaica, Ga.",Georgia,April,Robert,Evarts
+RAPE,4/27/1894,James Robinson,"Manassas, Va.",Virginia,April,James,Robinson
+RAPE,4/27/1894,Benjamin White,"Manassas, Va.",Virginia,April,Benjamin,White
+RAPE,5/15/1894,Nim Young,"Ocala, Fla.",Florida,May,Nim,Young
+RAPE,5/22/1894,unknown,"Miller County, Ga.",Georgia,May,#N/A,#N/A
+RAPE,6/13/1894,unknown,"Blackshear, Ga.",Georgia,June,#N/A,#N/A
+RAPE,6/18/1894,Owen Opliltree,"Forsyth, Ga.",Georgia,June,Owen,Opliltree
+RAPE,6/22/1894,Henry Capus,"Magnolia, Ark.",Arkansas,June,Henry,Capus
+RAPE,6/26/1894,Caleb Godly,"Bowling Green, Ky.",Kentucky,June,Caleb,Godly
+RAPE,6/28/1894,Fayette Franklin,"Mitchell, Ga.",Georgia,June,Fayette,Franklin
+RAPE,7/2/1894,Joseph Johnson,"Hiller's Creek, Mo.",Missouri,July,Joseph,Johnson
+RAPE,7/6/1894,Lewis Bankhead,"Cooper, Ala.",Alabama,July,Lewis,Bankhead
+RAPE,7/16/1894,Marion Howard,"Scottsville, Ky.",Kentucky,July,Marion,Howard
+RAPE,7/20/1894,William Griffith,"Woodville, Tex.",Texas,July,William,Griffith
+RAPE,8/12/1894,William Nershbread,"Rossville, Tenn.",Tennessee,August,William,Nershbread
+RAPE,8/14/1894,Marshall Boston,"Frankfort, Ky",Kentucky,August,Marshall,Boston
+RAPE,9/19/1894,David Gooseby,"Atlanta, Ga.",Georgia,September,David,Gooseby
+RAPE,10/15/1894,Willis Griffey,"Princeton, Ky",Kentucky,October,Willis,Griffey
+RAPE,11/8/1894,Lee Lawrence,"Jasper County, Ga.",Georgia,November,Lee,Lawrence
+RAPE,11/10/1894,Needham Smith,"Tipton County, Tenn.",Tennessee,November,Needham,Smith
+RAPE,11/14/1894,Robert Mosely,"Dolinite, Ala.",Alabama,November,Robert,Mosely
+RAPE,12/4/1894,William Jackson,"Ocala, Fla.",Florida,December,William,Jackson
+RAPE,12/18/1894,unknown,"Marion County, Fla.",Florida,December,#N/A,#N/A
+UNKNOWN OFFENSES,3/6/1894,Lamsen Gregory,"Bell's Depot, Tenn.",Tennessee,March,Lamsen,Gregory
+UNKNOWN OFFENSES,3/6/1894,Lamsen Gregory,"Bell's Depot, Tenn.",Tennessee,March,Lamsen,Gregory
+UNKNOWN OFFENSES,3/6/1894,unknown woman,"near Marche, Ark.",Arkansas,March,#N/A,#N/A
+UNKNOWN OFFENSES,4/14/1894,Alfred Brenn,"Calhoun, Ga.",Georgia,April,Alfred,Brenn
+UNKNOWN OFFENSES,6/8/1894,Harry Gill,"West Lancaster, S.C.",South Carolina,June,Harry,Gill
+UNKNOWN OFFENSES,11/23/1894,unknown,"Landrum, S.C.",South Carolina,November,#N/A,#N/A
+UNKNOWN OFFENSES,12/5/1894,Mrs. Teddy Arthur,"Lincoln County, W. Va.",West Virginia,December,Teddy,Arthur
+DESPERADO,1/14/1894,Charles Willis,"Ocala, Fla.",Florida,January,Charles,Willis
+SUSPECTED INCENDIARISM,1/18/1894,unknown,"Bayou Sarah, La.",Louisiana,January,#N/A,#N/A
+SUSPECTED ARSON,6/14/1894,J.H. Dave,"Monroe, La.",Louisiana,June,J.H.,Dave
+ENTICING SERVANT AWAY,2/10/1894,__ __ Collins,"Athens, Ga.",Georgia,February,#N/A,Collins
+TRAIN WRECKING,2/10/1894,Jesse Dillingham,"Smokeyville, Tex.",Texas,February,Jesse,Dillingham
+HIGHWAY ROBBERY,6/3/1894,unknown,"Dublin, Ga.",Georgia,June,#N/A,#N/A
+INCENDIARISM,11/8/1894,Gabe Nalls,"Blackford, Ky.",Kentucky,November,Gabe,Nalls
+INCENDIARISM,11/8/1894,Ulysses Nails,"Blackford, Ky.",Kentucky,November,Ulysses,Nails
+ARSON,12/20/1894,James Allen,"Brownsville, Tex.",Texas,December,James,Allen
+ASSAULT,12/23/1894,George King,"New Orleans, La.",Louisiana,December,George,King
+NO OFFENSE,12/28/1894,Scott Sherman,"Morehouse Parish, La.",Louisiana,December,Scott,Sherman
+BURGLARY,5/29/1894,Henry Smith,"Clinton, Miss.",Mississippi,May,Henry,Smith
+BURGLARY,5/29/1894,William James,"Clinton, Miss.",Mississippi,May,William,James
+ALLEGED RAPE,6/4/1894,Ready Murdock,"Yazoo, Miss.",Mississippi,June,Ready,Murdock
+ATTEMPTED RAPE,7/14/1894,unknown Negro,"Biloxi, Miss.",Mississippi,July,#N/A,#N/A
+ATTEMPTED RAPE,7/26/1894,Vance McClure,"New Iberia, La.",Louisiana,July,Vance,McClure
+ATTEMPTED RAPE,7/26/1894,William Tyler,"Carlisle, Ky.",Kentucky,July,William,Tyler
+ATTEMPTED RAPE,9/14/1894,James Smith,"Stark, Fla.",Florida,September,James,Smith
+ATTEMPTED RAPE,10/8/1894,Henry Gibson,"Fairfield, Tex.",Texas,October,Henry,Gibson
+ATTEMPTED RAPE,10/20/1894,__ __ Williams,"Upper Marlboro, Md.",Maryland,October,#N/A,Williams
+ATTEMPTED RAPE,6/9/1894,Lewis Williams,"Hewett Springs, Miss.",Mississippi,June,Lewis,Williams
+ATTEMPTED RAPE,6/28/1894,George Linton,"Brookhaven, Miss.",Mississippi,June,George,Linton
+ATTEMPTED RAPE,6/28/1894,Edward White,"Hudson, Ala.",Alabama,June,Edward,White
+ATTEMPTED RAPE,7/6/1894,George Pond,"Fulton, Miss.",Mississippi,July,George,Pond
+ATTEMPTED RAPE,7/7/1894,Augustus Pond,"Tupelo, Miss.",Mississippi,July,Augustus,Pond
+RACE PREJUDICE,6/10/1894,Mark Jacobs,"Bienville, La.",Louisiana,June,Mark,Jacobs
+RACE PREJUDICE,7/24/1894,unknown woman,"Sampson County, Miss.",Mississippi,July,#N/A,#N/A
+INTRODUCING SMALLPOX,6/10/1894,James Perry,"Knoxville, Ark.",Arkansas,June,James,Perry
+KIDNAPPING,3/2/1894,Lentige,"Harland County, Ky.",Kentucky,March,Lentige,#N/A
+CONSPIRACY,5/29/1894,J.T. Burgis,"Palatka, Fla.",Florida,May,J.T.,Burgis
+HORSE STEALING,6/20/1894,Archie Haynes,"Mason County, Ky.",Kentucky,June,Archie,Haynes
+HORSE STEALING,6/20/1894,Burt Haynes,"Mason County, Ky.",Kentucky,June,Burt,Haynes
+HORSE STEALING,6/20/1894,William Haynes,"Mason County, Ky.",Kentucky,June,William,Haynes
+WRITING LETTER TO WHITE WOMAN,5/9/1894,unknown Negro,West Texas.,Texas,May,#N/A,#N/A
+GIVING INFORMATION,7/12/1894,James Nelson,"Abbeyville, S.C.",South Carolina,July,James,Nelson
+STEALING,1/5/1894,Alfred Davis,"Live Oak County, Ark.",Arkansas,January,Alfred,Davis
+LARCENY,4/18/1894,Henry Montgomery,"Lewisburg, Tenn.",Tennessee,April,Henry,Montgomery
+POLITICAL CAUSES,7/19/1894,John Brownlee,"Oxford, Ala.",Alabama,July,John,Brownlee
+CONJURING,7/20/1894,Allen Myers,"Rankin County, Miss.",Mississippi,July,Allen,Myers
+ATTEMPTED MURDER,6/1/1894,Frank Ballard,"Jackson, Tenn.",Tennessee,June,Frank,Ballard
+ALLEGED MURDER,4/5/1894,Negro,"near Selma, Ala.",Alabama,April,#N/A,#N/A
+ALLEGED MURDER,4/5/1894,Negro,"near Selma, Ala.",Alabama,April,#N/A,#N/A
+WITHOUT CAUSE,5/17/1894,Samuel Wood,"Gates City, Va.",Virginia,May,Samuel,Wood
+BARN BURNING,4/22/1894,Thomas Black,"Tuscumbia, Ala.",Alabama,April,Thomas,Black
+BARN BURNING,4/22/1894,John Williams,"Tuscumbia, Ala.",Alabama,April,John,Williams
+BARN BURNING,4/22/1894,Toney Johnson,"Tuscumbia, Ala.",Alabama,April,Toney,Johnson
+BARN BURNING,7/14/1894,William Bell,"Dixon, Tenn.",Tennessee,July,William,Bell
+BARN BURNING,9/1/1894,Daniel Hawkins,"Millington, Tenn.",Tennessee,September,Daniel,Hawkins
+BARN BURNING,9/1/1894,Robert Haynes,"Millington, Tenn.",Tennessee,September,Robert,Haynes
+BARN BURNING,9/1/1894,Warner Williams,"Millington, Tenn.",Tennessee,September,Warner,Williams
+BARN BURNING,9/1/1894,Edward Hall,"Millington, Tenn.",Tennessee,September,Edward,Hall
+BARN BURNING,9/1/1894,John Haynes,"Millington, Tenn.",Tennessee,September,John,Haynes
+BARN BURNING,9/1/1894,Graham White,"Millington, Tenn.",Tennessee,September,Graham,White
+ASKING WHITE WOMAN TO MARRY HIM,5/23/1894,William Brooks,"Galesline, Ark.",Arkansas,May,William,Brooks

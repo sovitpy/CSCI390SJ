@@ -1,0 +1,1256 @@
+CHARGE_ID: 12
+First Name: Paul
+Last Name: Hill
+Gender: .
+Charge: ARSON
+Date: September 15, 1893
+State: Alabama
+
+CHARGE_ID: 12
+First Name: Paul
+Last Name: Archer
+Gender: .
+Charge: ARSON
+Date: September 15, 1893
+State: Alabama
+
+CHARGE_ID: 12
+First Name: William
+Last Name: Archer
+Gender: .
+Charge: ARSON
+Date: September 15, 1893
+State: Alabama
+
+CHARGE_ID: 12
+First Name: Emma
+Last Name: Fair
+Gender: .
+Charge: ARSON
+Date: September 15, 1893
+State: Alabama
+
+CHARGE_ID: 2
+First Name: .
+Last Name: .
+Gender: .
+Charge: SUSPECTED ROBBERY
+Date: December 23, 1893
+State: Mississippi
+
+CHARGE_ID: 42
+First Name: Calvin
+Last Name: Thomas
+Gender: .
+Charge: ASSAULT
+Date: December 25, 1893
+State: Georgia
+
+CHARGE_ID: 33
+First Name: Tillman
+Last Name: Green
+Gender: .
+Charge: ATTEMPTED ASSAULT
+Date: December 28, 1893
+State: Louisiana
+
+CHARGE_ID: 36
+First Name: Patrick
+Last Name: Wells
+Gender: .
+Charge: INCENDIARISM
+Date: January 26, 1893
+State: Florida
+
+CHARGE_ID: 36
+First Name: Frank
+Last Name: Harrell
+Gender: .
+Charge: INCENDIARISM
+Date: February 9, 1893
+State: Mississippi
+
+CHARGE_ID: 36
+First Name: William
+Last Name: Filder
+Gender: .
+Charge: INCENDIARISM
+Date: February 9, 1893
+State: Mississippi
+
+CHARGE_ID: 16
+First Name: Richard
+Last Name: Mays
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: February 21, 1893
+State: Missouri
+
+CHARGE_ID: 16
+First Name: Dug
+Last Name: Hazleton
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: August 14, 1893
+State: Georgia
+
+CHARGE_ID: 16
+First Name: Judge
+Last Name: McNeil
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: September 1, 1893
+State: Kentucky
+
+CHARGE_ID: 16
+First Name: Frank
+Last Name: Smith
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: September 11, 1893
+State: Mississippi
+
+CHARGE_ID: 16
+First Name: William
+Last Name: Jackson
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: September 16, 1893
+State: Missouri
+
+CHARGE_ID: 16
+First Name: Riley
+Last Name: Gulley
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: September 19, 1893
+State: Alabama
+
+CHARGE_ID: 16
+First Name: John
+Last Name: Davis
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: October 9, 1893
+State: Alabama
+
+CHARGE_ID: 16
+First Name: Robert
+Last Name: Kennedy
+Gender: .
+Charge: ATTEMPTED RAPE
+Date: November 8, 1893
+State: South Carolina
+
+CHARGE_ID: 25
+First Name: Richard
+Last Name: Forman
+Gender: .
+Charge: BURGLARY
+Date: February 16, 1893
+State: Mississippi
+
+CHARGE_ID: 27
+First Name: David
+Last Name: Jackson
+Gender: .
+Charge: WIFE BEATING
+Date: October 14, 1893
+State: Louisiana
+
+CHARGE_ID: 28
+First Name: Thomas
+Last Name: Smith
+Gender: .
+Charge: ATTEMPTED MURDER
+Date: September 21, 1893
+State: Virginia
+
+CHARGE_ID: 11
+First Name: .
+Last Name: .
+Gender: .
+Charge: ATTEMPTED ROBBERY
+Date: December 12, 1893
+State: Alabama
+
+CHARGE_ID: 11
+First Name: .
+Last Name: .
+Gender: .
+Charge: ATTEMPTED ROBBERY
+Date: December 12, 1893
+State: Alabama
+
+CHARGE_ID: 11
+First Name: .
+Last Name: .
+Gender: .
+Charge: ATTEMPTED ROBBERY
+Date: December 12, 1893
+State: Alabama
+
+CHARGE_ID: 11
+First Name: .
+Last Name: .
+Gender: .
+Charge: ATTEMPTED ROBBERY
+Date: December 12, 1893
+State: Alabama
+
+CHARGE_ID: 24
+First Name: Thomas
+Last Name: Carr
+Gender: .
+Charge: RACE PREJUDICE
+Date: January 30, 1893
+State: Mississippi
+
+CHARGE_ID: 24
+First Name: William
+Last Name: Butler
+Gender: .
+Charge: RACE PREJUDICE
+Date: February 7, 1893
+State: Texas
+
+CHARGE_ID: 24
+First Name: Charles
+Last Name: Tart
+Gender: .
+Charge: RACE PREJUDICE
+Date: August 27, 1893
+State: Mississippi
+
+CHARGE_ID: 24
+First Name: Robert
+Last Name: Greenwood
+Gender: .
+Charge: RACE PREJUDICE
+Date: December 7, 1893
+State: Arkansas
+
+CHARGE_ID: 24
+First Name: Allen
+Last Name: Butler
+Gender: .
+Charge: RACE PREJUDICE
+Date: July 14, 1893
+State: Illinois
+
+CHARGE_ID: 31
+First Name: .
+Last Name: .
+Gender: .
+Charge: THIEVES
+Date: October 24, 1893
+State: Louisiana
+
+CHARGE_ID: 31
+First Name: .
+Last Name: .
+Gender: .
+Charge: THIEVES
+Date: October 24, 1893
+State: Louisiana
+
+CHARGE_ID: 4
+First Name: Edward
+Last Name: Wagner
+Gender: .
+Charge: ALLEGED BARN BURNING
+Date: November 4, 1893
+State: Virginia
+
+CHARGE_ID: 4
+First Name: William
+Last Name: Wagner
+Gender: .
+Charge: ALLEGED BARN BURNING
+Date: November 4, 1893
+State: Virginia
+
+CHARGE_ID: 4
+First Name: Samuel
+Last Name: Motlow
+Gender: .
+Charge: ALLEGED BARN BURNING
+Date: November 4, 1893
+State: Virginia
+
+CHARGE_ID: 4
+First Name: Eliza
+Last Name: Motlow
+Gender: .
+Charge: ALLEGED BARN BURNING
+Date: November 4, 1893
+State: Virginia
+
+CHARGE_ID: 39
+First Name: Robert
+Last Name: Landry
+Gender: .
+Charge: ALLEGED MURDER
+Date: January 21, 1893
+State: Louisiana
+
+CHARGE_ID: 39
+First Name: Chicken
+Last Name: George
+Gender: .
+Charge: ALLEGED MURDER
+Date: January 21, 1893
+State: Louisiana
+
+CHARGE_ID: 39
+First Name: Richard
+Last Name: Davis
+Gender: .
+Charge: ALLEGED MURDER
+Date: January 21, 1893
+State: Louisiana
+
+CHARGE_ID: 39
+First Name: Benjamin
+Last Name: Menter
+Gender: .
+Charge: ALLEGED MURDER
+Date: December 8, 1893
+State: Alabama
+
+CHARGE_ID: 39
+First Name: Robert
+Last Name: Wilkins
+Gender: .
+Charge: ALLEGED MURDER
+Date: December 8, 1893
+State: Alabama
+
+CHARGE_ID: 39
+First Name: Joseph
+Last Name: Gevhens
+Gender: .
+Charge: ALLEGED MURDER
+Date: December 8, 1893
+State: Alabama
+
+CHARGE_ID: 35
+First Name: Valsin
+Last Name: Julian
+Gender: .
+Charge: ALLEGED COMPLICITY IN MURDER
+Date: September 16, 1893
+State: Louisiana
+
+CHARGE_ID: 35
+First Name: Basil
+Last Name: Julian
+Gender: .
+Charge: ALLEGED COMPLICITY IN MURDER
+Date: September 16, 1893
+State: Louisiana
+
+CHARGE_ID: 35
+First Name: Paul
+Last Name: Julian
+Gender: .
+Charge: ALLEGED COMPLICITY IN MURDER
+Date: September 16, 1893
+State: Louisiana
+
+CHARGE_ID: 35
+First Name: John
+Last Name: Willis
+Gender: .
+Charge: ALLEGED COMPLICITY IN MURDER
+Date: September 16, 1893
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: Samuel
+Last Name: Thorp
+Gender: .
+Charge: MURDER
+Date: June 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: George S.
+Last Name: Riechen
+Gender: .
+Charge: MURDER
+Date: June 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Joseph
+Last Name: Bird
+Gender: .
+Charge: MURDER
+Date: June 30, 1893
+State: Oklahoma
+
+CHARGE_ID: 1
+First Name: James
+Last Name: Lamar
+Gender: .
+Charge: MURDER
+Date: July 1, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Miller
+Gender: .
+Charge: MURDER
+Date: July 28, 1893
+State: Texas
+
+CHARGE_ID: 1
+First Name: Ada
+Last Name: Hiers
+Gender: .
+Charge: MURDER
+Date: July 28, 1893
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: Alexander
+Last Name: Brown
+Gender: .
+Charge: MURDER
+Date: July 28, 1893
+State: Texas
+
+CHARGE_ID: 1
+First Name: W.G.
+Last Name: Jamison
+Gender: .
+Charge: MURDER
+Date: July 30, 1893
+State: Illinois
+
+CHARGE_ID: 1
+First Name: John
+Last Name: Ferguson
+Gender: .
+Charge: MURDER
+Date: September 1, 1893
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: Oscar
+Last Name: Johnston
+Gender: .
+Charge: MURDER
+Date: September 1, 1893
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Ewing
+Gender: .
+Charge: MURDER
+Date: September 1, 1893
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: William
+Last Name: Smith
+Gender: .
+Charge: MURDER
+Date: September 8, 1893
+State: Arkansas
+
+CHARGE_ID: 1
+First Name: Staples
+Last Name: Green
+Gender: .
+Charge: MURDER
+Date: September 15, 1893
+State: Alabama
+
+CHARGE_ID: 1
+First Name: Hiram
+Last Name: Jacobs
+Gender: .
+Charge: MURDER
+Date: September 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Lucien
+Last Name: Mannet
+Gender: .
+Charge: MURDER
+Date: September 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Hire
+Last Name: Bevington
+Gender: .
+Charge: MURDER
+Date: September 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Weldon
+Last Name: Gordon
+Gender: .
+Charge: MURDER
+Date: September 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Parse
+Last Name: Strickland
+Gender: .
+Charge: MURDER
+Date: September 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: William
+Last Name: Dalton
+Gender: .
+Charge: MURDER
+Date: October 20, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: M.B.
+Last Name: Taylor
+Gender: .
+Charge: MURDER
+Date: October 27, 1893
+State: Virginia
+
+CHARGE_ID: 1
+First Name: Isaac
+Last Name: Williams
+Gender: .
+Charge: MURDER
+Date: October 27, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Miller
+Last Name: Davis
+Gender: .
+Charge: MURDER
+Date: November 10, 1893
+State: Arkansas
+
+CHARGE_ID: 1
+First Name: John
+Last Name: Johnston
+Gender: .
+Charge: MURDER
+Date: November 14, 1893
+State: New York
+
+CHARGE_ID: 1
+First Name: Calvin
+Last Name: Stewart
+Gender: .
+Charge: MURDER
+Date: September 27, 1893
+State: South Carolina
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Coleman
+Gender: .
+Charge: MURDER
+Date: September 29, 1893
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: William
+Last Name: Richards
+Gender: .
+Charge: MURDER
+Date: October 18, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: James
+Last Name: Dickson
+Gender: .
+Charge: MURDER
+Date: October 18, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Edward
+Last Name: Jenkins
+Gender: .
+Charge: MURDER
+Date: October 27, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Boggs
+Gender: .
+Charge: MURDER
+Date: November 9, 1893
+State: Florida
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: November 14, 1893
+State: Florida
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: November 14, 1893
+State: Florida
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: November 14, 1893
+State: Florida
+
+CHARGE_ID: 1
+First Name: D.T.
+Last Name: Nelson
+Gender: .
+Charge: MURDER
+Date: November 14, 1893
+State: Arkansas
+
+CHARGE_ID: 1
+First Name: Newton
+Last Name: Jones
+Gender: .
+Charge: MURDER
+Date: November 29, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: Lucius
+Last Name: Holt
+Gender: .
+Charge: MURDER
+Date: December 2, 1893
+State: Georgia
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: December 10, 1893
+State: Alabama
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: December 10, 1893
+State: Alabama
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Fleming
+Gender: .
+Charge: MURDER
+Date: July 12, 1893
+State: Mississippi
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: July 17, 1893
+State: Alabama
+
+CHARGE_ID: 1
+First Name: Meredith
+Last Name: Lewis
+Gender: .
+Charge: MURDER
+Date: July 18, 1893
+State: Louisiana
+
+CHARGE_ID: 1
+First Name: Henry
+Last Name: Reynolds
+Gender: .
+Charge: MURDER
+Date: August 1, 1893
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: August 9, 1893
+State: Arkansas
+
+CHARGE_ID: 1
+First Name: .
+Last Name: .
+Gender: .
+Charge: MURDER
+Date: August 12, 1893
+State: Florida
+
+CHARGE_ID: 1
+First Name: Charles
+Last Name: Walton
+Gender: .
+Charge: MURDER
+Date: August 18, 1893
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: Charles
+Last Name: Tait
+Gender: .
+Charge: MURDER
+Date: August 21, 1893
+State: Tennessee
+
+CHARGE_ID: 1
+First Name: Leonard
+Last Name: Taylor
+Gender: .
+Charge: MURDER
+Date: August 28, 1893
+State: Kentucky
+
+CHARGE_ID: 1
+First Name: Benjamin
+Last Name: Jackson
+Gender: .
+Charge: MURDER
+Date: September 8, 1893
+State: Mississippi
+
+CHARGE_ID: 1
+First Name: John
+Last Name: Williams
+Gender: .
+Charge: MURDER
+Date: September 14, 1893
+State: Tennessee
+
+CHARGE_ID: 3
+First Name: .
+Last Name: .
+Gender: .
+Charge: SELF-DEFENSE
+Date: July 30, 1893
+State: Kentucky
+
+CHARGE_ID: 47
+First Name: .
+Last Name: .
+Gender: .
+Charge: POISONING WELLS
+Date: August 18, 1893
+State: Louisiana
+
+CHARGE_ID: 47
+First Name: .
+Last Name: .
+Gender: .
+Charge: POISONING WELLS
+Date: August 18, 1893
+State: Louisiana
+
+CHARGE_ID: 5
+First Name: Benjamin
+Last Name: Jackson
+Gender: .
+Charge: ALLEGED WELL POISONING
+Date: September 15, 1893
+State: Mississippi
+
+CHARGE_ID: 5
+First Name: Mahala
+Last Name: Jackson
+Gender: .
+Charge: ALLEGED WELL POISONING
+Date: September 15, 1893
+State: Mississippi
+
+CHARGE_ID: 5
+First Name: Louisa
+Last Name: Carter
+Gender: .
+Charge: ALLEGED WELL POISONING
+Date: September 15, 1893
+State: Mississippi
+
+CHARGE_ID: 5
+First Name: W.A.
+Last Name: Haley
+Gender: .
+Charge: ALLEGED WELL POISONING
+Date: September 15, 1893
+State: Mississippi
+
+CHARGE_ID: 5
+First Name: Rufus
+Last Name: Bigley
+Gender: .
+Charge: ALLEGED WELL POISONING
+Date: September 16, 1893
+State: Mississippi
+
+CHARGE_ID: 46
+First Name: John
+Last Name: Hughes
+Gender: .
+Charge: INSULTING WHITES
+Date: February 18, 1893
+State: Missouri
+
+CHARGE_ID: 46
+First Name: Isaac
+Last Name: Lincoln
+Gender: .
+Charge: INSULTING WHITES
+Date: June 2, 1893
+State: South Carolina
+
+CHARGE_ID: 6
+First Name: Daniel
+Last Name: Adams
+Gender: .
+Charge: MURDEROUS ASSAULT
+Date: April 20, 1893
+State: Kansas
+
+CHARGE_ID: 34
+First Name: Charles
+Last Name: Martin
+Gender: .
+Charge: NO OFFENSE
+Date: July 21, 1893
+State: Tennessee
+
+CHARGE_ID: 34
+First Name: William
+Last Name: Steen
+Gender: .
+Charge: NO OFFENSE
+Date: July 30, 1893
+State: Mississippi
+
+CHARGE_ID: 34
+First Name: .
+Last Name: .
+Gender: .
+Charge: NO OFFENSE
+Date: August 31, 1893
+State: Texas
+
+CHARGE_ID: 34
+First Name: .
+Last Name: .
+Gender: .
+Charge: NO OFFENSE
+Date: September 30, 1893
+State: Texas
+
+CHARGE_ID: 34
+First Name: Mack
+Last Name: Segars
+Gender: .
+Charge: NO OFFENSE
+Date: December 28, 1893
+State: Alabama
+
+CHARGE_ID: 41
+First Name: Charles T.
+Last Name: Miller
+Gender: .
+Charge: ALLEGED RAPE
+Date: July 7, 1893
+State: Kentucky
+
+CHARGE_ID: 41
+First Name: Daniel
+Last Name: Lewis
+Gender: .
+Charge: ALLEGED RAPE
+Date: August 10, 1893
+State: Georgia
+
+CHARGE_ID: 41
+First Name: James
+Last Name: Taylor
+Gender: .
+Charge: ALLEGED RAPE
+Date: August 10, 1893
+State: Georgia
+
+CHARGE_ID: 41
+First Name: John
+Last Name: Chambers
+Gender: .
+Charge: ALLEGED RAPE
+Date: August 10, 1893
+State: Georgia
+
+CHARGE_ID: 21
+First Name: Henry G.
+Last Name: Givens
+Gender: .
+Charge: ALLEGED STOCK POISONING
+Date: December 16, 1893
+State: Kentucky
+
+CHARGE_ID: 44
+First Name: Sloan
+Last Name: Allen
+Gender: .
+Charge: SUSPECTED MURDER
+Date: December 23, 1893
+State: Mississippi
+
+CHARGE_ID: 8
+First Name: Andy
+Last Name: Blount
+Gender: .
+Charge: SUSPICION OF RAPE
+Date: February 14, 1893
+State: Tennessee
+
+CHARGE_ID: 7
+First Name: William
+Last Name: Ferguson
+Gender: .
+Charge: TURNING STATE'S EVIDENCE
+Date: December 19, 1893
+State: Georgia
+
+CHARGE_ID: 23
+First Name: James
+Last Name: Williams
+Gender: .
+Charge: RAPE
+Date: January 19, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: February 11, 1893
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Joseph
+Last Name: Hayne
+Gender: .
+Charge: RAPE
+Date: February 26, 1893
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: Abner
+Last Name: Anthony
+Gender: .
+Charge: RAPE
+Date: November 1, 1893
+State: Virginia
+
+CHARGE_ID: 23
+First Name: Thomas
+Last Name: Hill
+Gender: .
+Charge: RAPE
+Date: November 1, 1893
+State: Georgia
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Peterson
+Gender: .
+Charge: RAPE
+Date: April 24, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: Samuel
+Last Name: Gaillard
+Gender: .
+Charge: RAPE
+Date: May 6, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: Haywood
+Last Name: Banks
+Gender: .
+Charge: RAPE
+Date: May 10, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: Israel
+Last Name: Halliway
+Gender: .
+Charge: RAPE
+Date: May 12, 1893
+State: Louisiana
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: May 12, 1893
+State: Virginia
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Wallace
+Gender: .
+Charge: RAPE
+Date: May 31, 1893
+State: Arkansas
+
+CHARGE_ID: 23
+First Name: Samuel
+Last Name: Bush
+Gender: .
+Charge: RAPE
+Date: June 3, 1893
+State: Illinois
+
+CHARGE_ID: 23
+First Name: L.C.
+Last Name: Dumas
+Gender: .
+Charge: RAPE
+Date: June 8, 1893
+State: Tennessee
+
+CHARGE_ID: 23
+First Name: William
+Last Name: Shorter
+Gender: .
+Charge: RAPE
+Date: June 13, 1893
+State: Virginia
+
+CHARGE_ID: 23
+First Name: George
+Last Name: Williams
+Gender: .
+Charge: RAPE
+Date: June 14, 1893
+State: Texas
+
+CHARGE_ID: 23
+First Name: Daniel
+Last Name: Edwards
+Gender: .
+Charge: RAPE
+Date: June 24, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: Ernest
+Last Name: Murphy
+Gender: .
+Charge: RAPE
+Date: June 27, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: July 6, 1893
+State: Louisiana
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: July 6, 1893
+State: Louisiana
+
+CHARGE_ID: 23
+First Name: Robert
+Last Name: Larkin
+Gender: .
+Charge: RAPE
+Date: July 12, 1893
+State: Texas
+
+CHARGE_ID: 23
+First Name: Warren
+Last Name: Dean
+Gender: .
+Charge: RAPE
+Date: July 17, 1893
+State: Georgia
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: July 21, 1893
+State: Florida
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Cotton
+Gender: .
+Charge: RAPE
+Date: July 17, 1893
+State: Arkansas
+
+CHARGE_ID: 23
+First Name: Lee
+Last Name: Walker
+Gender: .
+Charge: RAPE
+Date: July 22, 1893
+State: Mississippi
+
+CHARGE_ID: 23
+First Name: .
+Last Name: Handy
+Gender: .
+Charge: RAPE
+Date: July 26, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: William
+Last Name: Thompson
+Gender: .
+Charge: RAPE
+Date: July 30, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: Isaac
+Last Name: Harper
+Gender: .
+Charge: RAPE
+Date: July 28, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: Thomas
+Last Name: Preston
+Gender: .
+Charge: RAPE
+Date: July 30, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: Handy
+Last Name: Kaigler
+Gender: .
+Charge: RAPE
+Date: July 30, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: Monroe
+Last Name: Smith
+Gender: .
+Charge: RAPE
+Date: August 13, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: August 19, 1893
+State: Kentucky
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Nilson
+Gender: .
+Charge: RAPE
+Date: August 21, 1893
+State: Kansas
+
+CHARGE_ID: 23
+First Name: Jacob
+Last Name: Davis
+Gender: .
+Charge: RAPE
+Date: August 23, 1893
+State: South Carolina
+
+CHARGE_ID: 23
+First Name: William
+Last Name: Arkinson
+Gender: .
+Charge: RAPE
+Date: September 2, 1893
+State: Kentucky
+
+CHARGE_ID: 23
+First Name: .
+Last Name: .
+Gender: .
+Charge: RAPE
+Date: September 16, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: Jessie
+Last Name: Mitchell
+Gender: .
+Charge: RAPE
+Date: September 16, 1893
+State: Virginia
+
+CHARGE_ID: 23
+First Name: Perry
+Last Name: Bratcher
+Gender: .
+Charge: RAPE
+Date: September 25, 1893
+State: Texas
+
+CHARGE_ID: 23
+First Name: William
+Last Name: Lacey
+Gender: .
+Charge: RAPE
+Date: October 9, 1893
+State: Alabama
+
+CHARGE_ID: 23
+First Name: John
+Last Name: Gamble
+Gender: .
+Charge: RAPE
+Date: October 22, 1893
+State: Tennessee
+
